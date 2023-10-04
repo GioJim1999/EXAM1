@@ -1,2 +1,4 @@
 ﻿  main.cpp
+C:\Users\Gio Jimenezj\Desktop\EXAM1\EXAM1\input.h(348,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Gio Jimenezj\Desktop\EXAM1\EXAM1\input.h(373,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   EXAM1.vcxproj -> C:\Users\Gio Jimenezj\Desktop\EXAM1\x64\Debug\EXAM1.exe
